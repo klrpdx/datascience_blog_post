@@ -22,6 +22,9 @@ could you make a good guess at the type of wine?
 3. How does language vay with the score awarded to wines? Does it match the language
 for prices?
 
+My overall motivation is to improve my ability to describe wine by analyzing the words
+used my experts.
+
 
 ### Results
 

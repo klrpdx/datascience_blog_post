@@ -41,6 +41,8 @@ High-priced wines tend to be high scored as well, and the language tends to be t
 Low scoring wines, though, are described in harsh terms that distinguish them from
 inexpensive wine. 
 
+The blog post describing the results for a general audience is here:
+https://medium.com/@kennyflutes/this-is-how-you-talk-about-wine-2a41d6844587
 
 ### Libraries Used
 -  pandas

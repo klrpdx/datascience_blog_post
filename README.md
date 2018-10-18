@@ -19,7 +19,7 @@ could you make a good guess at the type of wine?
 
 2. How does the language vary with the price of wines?
 
-3. How does language vay with the score awarded to wines? Does it match the language
+3. How does language vary with the score awarded to wines? Does it match the language
 for prices?
 
 
